@@ -1,1 +1,1 @@
-# ReactJS-APSSDC
+# srm-intern-frontend
